@@ -1,0 +1,17 @@
+{
+  "name": "server-esportplanner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb-memory-server": "^9.4.0",
+    "mongoose": "^8.3.4",
+    "node-fetch": "^3.3.2"
+  }
+}
